@@ -12,6 +12,4 @@ http.createServer(app).listen(process.env.PORT || 3000, function(){
 
 
 
-//challenge-service
-//GyVrvtHktF2lgcFE
 //mongodb+srv://challenge-service:<password>@challenge.wca34ns.mongodb.net/?retryWrites=true&w=majority
